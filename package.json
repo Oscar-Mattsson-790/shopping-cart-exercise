@@ -1,0 +1,16 @@
+{
+  "name": "shopping-cart-exercise",
+  "version": "1.0.0",
+  "description": "I denna övning ska du få fixa till en e-handelssida som inte fungerar. En användare får en lista med produkter som den kan lägga till i en varukorg och sedan se sina tillagda produkter genom att klicka på länken **cart**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
