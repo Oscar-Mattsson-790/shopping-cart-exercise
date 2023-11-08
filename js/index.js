@@ -56,3 +56,9 @@ function addRemoveButtonListeners() {
 document.getElementById("open-cart").addEventListener("click", function () {
   document.getElementById("cart").classList.toggle("hide");
 });
+
+module.exports = {
+  shoppingCart,
+  isProductInCart,
+  updateCart,
+};
